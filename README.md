@@ -4,4 +4,7 @@
  
 效果图 
 
-<img src="show/1.jpg" /><img src="show/2.jpg" />
+<img src="show/1.jpg" />
+
+<hr>
+<img src="show/2.jpg" />
